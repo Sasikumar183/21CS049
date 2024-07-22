@@ -8,6 +8,7 @@ function App() {
     <>
     <div>
       <p className=''>Hello world</p>
+      <p className=''>Hello world2</p>
     </div>
     </>
   )
